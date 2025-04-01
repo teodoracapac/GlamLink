@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationGlamLink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea4e80d441836793e1f0b9b1f60e91376a288e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationGlamLink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationGlamLink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
