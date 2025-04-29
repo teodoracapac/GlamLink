@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebApplicationGlamLink.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\GlamLinkClient\\GlamLinkClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
