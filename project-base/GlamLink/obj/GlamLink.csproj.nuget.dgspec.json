@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Private\\Desktop\\Project\\GlamLink\\GlamLink.csproj": {}
+    "D:\\3rdYear\\YEAR3SEM2\\II\\GlamLink\\project-base\\GlamLink\\GlamLink.csproj": {}
   },
   "projects": {
-    "D:\\Private\\Desktop\\Project\\GlamLink\\GlamLink.csproj": {
+    "D:\\3rdYear\\YEAR3SEM2\\II\\GlamLink\\project-base\\GlamLink\\GlamLink.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Private\\Desktop\\Project\\GlamLink\\GlamLink.csproj",
+        "projectUniqueName": "D:\\3rdYear\\YEAR3SEM2\\II\\GlamLink\\project-base\\GlamLink\\GlamLink.csproj",
         "projectName": "GlamLink",
-        "projectPath": "D:\\Private\\Desktop\\Project\\GlamLink\\GlamLink.csproj",
+        "projectPath": "D:\\3rdYear\\YEAR3SEM2\\II\\GlamLink\\project-base\\GlamLink\\GlamLink.csproj",
         "packagesPath": "C:\\Users\\Teodora Capac\\.nuget\\packages\\",
-        "outputPath": "D:\\Private\\Desktop\\Project\\GlamLink\\obj\\",
+        "outputPath": "D:\\3rdYear\\YEAR3SEM2\\II\\GlamLink\\project-base\\GlamLink\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
