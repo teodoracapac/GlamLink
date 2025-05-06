@@ -1,23 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Text.Json;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using GlamLink.Shared.Models;
 namespace WindowsFormsApp1
 {
     public partial class MainPage : Form
     {
         private static readonly HttpClient client = new HttpClient();
-        private string selectedItemPath = string.Empty;
-        private PictureBox selectedPictureBox = null;
-        
+        private readonly string baseUrl = "https://localhost:44337";
+        private string selectedFileNameForDeletion = null;
 
         public MainPage()
         {
@@ -75,96 +71,72 @@ namespace WindowsFormsApp1
             }
         }
 
-
-        private Image LoadImageWithoutLocking(string path)
+        private async void DisplayCategoryItems(string category)
         {
+            // Clear previous images and buttons
+            ClearDynamicControls();
+
+            List<Clothes> clothesItems = new List<Clothes>();
             try
             {
-                FileInfo fileInfo = new FileInfo(path);
-                if (fileInfo.Length == 0)
-                {
-                    MessageBox.Show($"File is empty: {path}");
-                    return null;
-                }
+                var response = await client.GetAsync($"{baseUrl}/api/Closet/items?category={category}");
 
-                byte[] imageData = File.ReadAllBytes(path);
-                using (var ms = new MemoryStream(imageData))
+                if (response.IsSuccessStatusCode)
                 {
-                    return Image.FromStream(ms);
+                    var json = await response.Content.ReadAsStringAsync();
+                    clothesItems = JsonSerializer.Deserialize<List<Clothes>>(json);  // Deserializăm într-o listă de obiecte Clothes
+                }
+                else
+                {
+                    MessageBox.Show("Failed to load item list from API.");
+                    return;
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Failed to load image: {path}\nError: {ex.Message}");
-                return null;
-            }
-        }
-
-
-
-
-
-
-        private void DisplayCategoryItems(string category)
-        {
-            // Clear old PictureBoxes (Dynamic Items)
-            foreach (Control ctrl in panelCloset.Controls.OfType<PictureBox>().ToList())
-            {
-                if (ctrl.Tag != null && ctrl.Tag.ToString() == "DynamicItem")
-                {
-                    if (ctrl is PictureBox pic)
-                    {
-                        pic.Image?.Dispose();
-                        pic.Image = null;
-                    }
-                    panelCloset.Controls.Remove(ctrl);
-                    ctrl.Dispose();
-                }
-            }
-
-            // Clear old dynamic Buttons
-            foreach (Control ctrl in panelCloset.Controls.OfType<Button>().ToList())
-            {
-                if (ctrl.Tag != null && ctrl.Tag.ToString() == "DynamicButton")
-                {
-                    panelCloset.Controls.Remove(ctrl);
-                    ctrl.Dispose();
-                }
-            }
-
-            string folderPath = Path.Combine("ClosetItems", category);
-            if (!Directory.Exists(folderPath))
-            {
-                MessageBox.Show($"Folder not found: {folderPath}");
+                MessageBox.Show("Error getting items: " + ex.Message);
                 return;
             }
-
-            string[] imageFiles = Directory
-                .GetFiles(folderPath, "*.jpg")
-                .Where(file => !file.EndsWith("preview.jpg", StringComparison.OrdinalIgnoreCase))
-                .ToArray();
 
             int x = 180, y = 10;
             int imageSize = 100;
 
-            foreach (var file in imageFiles)
+            foreach (var item in clothesItems)
             {
+                string imageUrl = $"{baseUrl}/api/Closet/image?category={category}&fileName={item.name}.jpg";
                 PictureBox itemPic = new PictureBox();
 
-                Image imgTemp = LoadImageWithoutLocking(file);
-                if (imgTemp == null)
-                    continue; // skip this file
+                try
+                {
+                    var imageBytes = await client.GetByteArrayAsync(imageUrl);
+                    using (var ms = new MemoryStream(imageBytes))
+                    {
+                        Image img = Image.FromStream(ms);
+                        Image thumbnail = img.GetThumbnailImage(100, 100, () => false, IntPtr.Zero);
+                        itemPic.Image = thumbnail;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Failed to load image {item.name}: {ex.Message}");
+                    continue;
+                }
 
-                Image thumbnail = imgTemp.GetThumbnailImage(100, 100, () => false, IntPtr.Zero);
-                imgTemp.Dispose(); // Free memory
-
-                itemPic.Image = thumbnail;
                 itemPic.SizeMode = PictureBoxSizeMode.Zoom;
                 itemPic.Location = new Point(x, y);
                 itemPic.Size = new Size(imageSize, imageSize);
-                itemPic.Tag = file;
-                itemPic.Click += (s, e) => SelectItemForDeletion(file);
                 itemPic.Tag = "DynamicItem";
+
+                itemPic.Click += (s, e) =>
+                {
+                    SelectItemForDeletion(item.name);
+
+                    foreach (var pic in panelCloset.Controls.OfType<PictureBox>())
+                        pic.BorderStyle = BorderStyle.None;
+
+                    itemPic.BorderStyle = BorderStyle.Fixed3D;
+                };
+
                 panelCloset.Controls.Add(itemPic);
 
                 y += imageSize + 10;
@@ -173,31 +145,29 @@ namespace WindowsFormsApp1
                     y = 10;
                     x += imageSize + 10;
                 }
-            
+            }
 
-
-        }
-
-        // Add Buttons (Add and Delete)
-        Button btnAdd = new Button();
-            btnAdd.Text = $"Add {category}";
-            btnAdd.Location = new Point(x, y + 20);
-            btnAdd.Size = new Size(100, 30);
-            btnAdd.Tag = "DynamicButton";
+            // Add / Delete buttons
+            Button btnAdd = new Button
+            {
+                Text = $"Add {category}",
+                Location = new Point(x, y + 20),
+                Size = new Size(100, 30),
+                Tag = "DynamicButton"
+            };
             btnAdd.Click += (s, e) => AddNewItem(category);
             panelCloset.Controls.Add(btnAdd);
 
-            Button btnDelete = new Button();
-            btnDelete.Text = $"Delete {category}";
-            btnDelete.Location = new Point(x + 110, y + 20);
-            btnDelete.Size = new Size(100, 30);
-            btnDelete.Tag = "DynamicButton";
-            btnDelete.Click += (s, e) => DeleteItem();
+            Button btnDelete = new Button
+            {
+                Text = $"Delete {category}",
+                Location = new Point(x + 110, y + 20),
+                Size = new Size(100, 30),
+                Tag = "DynamicButton"
+            };
+            btnDelete.Click += (s, e) => DeleteItem(category);
             panelCloset.Controls.Add(btnDelete);
         }
-
-
-
 
 
         private void ClearDynamicControls()
@@ -221,98 +191,88 @@ namespace WindowsFormsApp1
             }
         }
 
-
-        private void SelectItemForDeletion(PictureBox pic)
+        private void SelectItemForDeletion(string fileName)
         {
-            selectedItemPath = pic.Tag?.ToString();
-            selectedPictureBox = pic;
+            selectedFileNameForDeletion = fileName;
+            MessageBox.Show($"Selected {fileName} for deletion.");
+        }
 
-            if (!string.IsNullOrEmpty(selectedItemPath))
+        private async void AddNewItem(string category)
+        {
+            using (OpenFileDialog ofd = new OpenFileDialog())
             {
-                MessageBox.Show($"Selected item: {Path.GetFileName(selectedItemPath)}");
+                ofd.Title = "Select an image to upload";
+                ofd.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.bmp;*.gif";
+
+                if (ofd.ShowDialog() == DialogResult.OK)
+                {
+                    MultipartFormDataContent content = null;
+                    FileStream fileStream = null;
+
+                    try
+                    {
+                        content = new MultipartFormDataContent();
+                        fileStream = new FileStream(ofd.FileName, FileMode.Open, FileAccess.Read);
+                        var fileContent = new StreamContent(fileStream);
+                        fileContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
+
+                        content.Add(fileContent, "file", Path.GetFileName(ofd.FileName));
+                        content.Add(new StringContent(category), "category");
+
+                        var response = await client.PostAsync($"{baseUrl}/api/Closet/upload", content);
+
+                        if (response.IsSuccessStatusCode)
+                        {
+                            MessageBox.Show("Item added successfully!");
+                            DisplayCategoryItems(category);
+                        }
+                        else
+                        {
+                            MessageBox.Show("Upload failed: " + response.StatusCode);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Error uploading item: " + ex.Message);
+                    }
+                    finally
+                    {
+                        fileStream?.Dispose();
+                        content?.Dispose();
+                    }
+                }
             }
         }
 
-
-        private void AddNewItem(string category)
+        private async void DeleteItem(string category)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog
-            {
-                Filter = "Image Files|*.jpg;*.jpeg;*.png",
-                Title = $"Select a {category} Image"
-            };
-
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
-            {
-                string selectedFile = openFileDialog.FileName;
-                string folderPath = Path.Combine("ClosetItems", category);
-
-                if (!Directory.Exists(folderPath))
-                {
-                    Directory.CreateDirectory(folderPath);
-                }
-
-                string destinationFile = Path.Combine(folderPath, Path.GetFileName(selectedFile));
-
-                try
-                {
-                    File.Copy(selectedFile, destinationFile, true);
-
-                    MessageBox.Show($"{category} added successfully!");
-
-                    DisplayCategoryItems(category);
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show($"An error occurred while adding the {category}: {ex.Message}");
-                }
-            }
-        }
-
-
-
-        private void DeleteItem()
-        {
-            if (string.IsNullOrEmpty(selectedItemPath))
+            if (string.IsNullOrEmpty(selectedFileNameForDeletion))
             {
                 MessageBox.Show("Please select an item to delete first.");
                 return;
             }
 
+            string apiUrl = $"{baseUrl}/api/Closet/delete?category={category}&fileName={selectedFileNameForDeletion}";
+
             try
             {
-                DialogResult result = MessageBox.Show($"Are you sure you want to delete {Path.GetFileName(selectedItemPath)}?", "Confirm Deletion", MessageBoxButtons.YesNo);
-
-                if (result == DialogResult.Yes)
+                var response = await client.DeleteAsync(apiUrl);
+                if (response.IsSuccessStatusCode)
                 {
-                    if (File.Exists(selectedItemPath))
-                    {
-                        File.Delete(selectedItemPath);
-                    }
-
-                    MessageBox.Show($"Item {Path.GetFileName(selectedItemPath)} deleted successfully.");
-
-                    // Refresh
-                    string category = Path.GetDirectoryName(selectedItemPath).Split(Path.DirectorySeparatorChar).Last();
-                    selectedItemPath = string.Empty; // Reset
+                    MessageBox.Show("Item deleted successfully!");
+                    selectedFileNameForDeletion = null;
                     DisplayCategoryItems(category);
+                }
+                else
+                {
+                    MessageBox.Show("Delete failed: " + response.StatusCode);
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"An error occurred while deleting the item: {ex.Message}");
+                MessageBox.Show("Error deleting item: " + ex.Message);
             }
         }
-
-
-
-
-        private void SelectItemForDeletion(string filePath)
-        {
-            selectedItemPath = filePath;
-            MessageBox.Show($"Selected item: {Path.GetFileName(filePath)}");
-        }
-
 
         private void ShowPage(Panel page)
         {
@@ -325,74 +285,18 @@ namespace WindowsFormsApp1
             page.Visible = true;
         }
 
-        private async void btnLoadUsers_Click(object sender, EventArgs e)
-        {
-            string url = "https://localhost:7170/api/users"; // Adjust if needed
-            try
-            {
-                var response = await client.GetAsync(url);
-                if (response.IsSuccessStatusCode)
-                {
-                    string jsonResponse = await response.Content.ReadAsStringAsync();
-                    var users = JsonSerializer.Deserialize<List<User>>(jsonResponse);
-
-                    // You could bind 'users' to a grid or list here
-                }
-                else
-                {
-                    MessageBox.Show("Error connecting to API: " + response.StatusCode);
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Exception occurred: " + ex.Message);
-            }
-        }
-
-        private void btnCloset_Click(object sender, EventArgs e)
-        {
-            ShowPage(panelCloset);
-        }
-
-        private void btnOutfit_Click(object sender, EventArgs e)
-        {
-            ShowPage(panelOutfit);
-        }
-
-        private void btnCalendar_Click(object sender, EventArgs e)
-        {
-            ShowPage(panelCalendar);
-        }
-
-        private void btnComplain_Click(object sender, EventArgs e)
-        {
-            ShowPage(panelComplain);
-        }
-
-        private void btnAccount_Click(object sender, EventArgs e)
-        {
-            ShowPage(panelAccount);
-        }
-
-        private void btnDresses_Click(object sender, EventArgs e)
-        {
-            DisplayCategoryItems("Dresses");
-        }
-
-        private void btnBottoms_Click(object sender, EventArgs e)
-        {
-            DisplayCategoryItems("Bottoms");
-        }
-
-        private void btnJackets_Click(object sender, EventArgs e)
-        {
-            DisplayCategoryItems("Jackets");
-        }
+        private void btnCloset_Click(object sender, EventArgs e) => ShowPage(panelCloset);
+        private void btnOutfit_Click(object sender, EventArgs e) => ShowPage(panelOutfit);
+        private void btnCalendar_Click(object sender, EventArgs e) => ShowPage(panelCalendar);
+        private void btnComplain_Click(object sender, EventArgs e) => ShowPage(panelComplain);
+        private void btnAccount_Click(object sender, EventArgs e) => ShowPage(panelAccount);
 
         public class User
         {
             public int Id { get; set; }
             public string Username { get; set; }
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e) { }
     }
 }

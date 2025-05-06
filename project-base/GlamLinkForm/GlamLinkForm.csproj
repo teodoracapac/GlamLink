@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\NSwag.MSBuild.14.4.0\build\NSwag.MSBuild.props" Condition="Exists('packages\NSwag.MSBuild.14.4.0\build\NSwag.MSBuild.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -12,6 +13,8 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -123,6 +126,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="OpenAPIs\GlamLinkForm.csproj" />
     <None Include="OpenAPIs\swagger.json">
       <CodeGenerator>NSwagCSharp</CodeGenerator>
       <SourceUri>https://localhost:44337/swagger/v1/swagger.json</SourceUri>
@@ -141,5 +145,30 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OpenAPIs\index1.html">
+      <CodeGenerator>NSwagCSharp</CodeGenerator>
+      <SourceUri>https://localhost:44337/swagger/index.html</SourceUri>
+    </Content>
+    <Content Include="OpenAPIs\index2.html">
+      <CodeGenerator>NSwagCSharp</CodeGenerator>
+      <SourceUri>https://localhost:44337/swagger/index.html</SourceUri>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\GlamLink.Shared\GlamLink.Shared\GlamLink.Shared.csproj">
+      <Project>{37be5bdf-b963-170d-556c-b1657501dc4b}</Project>
+      <Name>GlamLink.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\NSwag.MSBuild.14.4.0\build\NSwag.MSBuild.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\NSwag.MSBuild.14.4.0\build\NSwag.MSBuild.props'))" />
+  </Target>
 </Project>

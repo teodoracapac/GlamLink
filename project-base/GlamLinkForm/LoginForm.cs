@@ -92,5 +92,10 @@ namespace GlamLinkClient
                 MessageBox.Show("Error: Invalid credentials!");
             }
         }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

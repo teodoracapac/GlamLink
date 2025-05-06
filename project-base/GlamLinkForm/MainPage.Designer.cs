@@ -61,6 +61,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(540, 220);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // panel2
             // 
@@ -251,9 +252,9 @@
             this.btnCategory_Dresses.TabIndex = 0;
             this.btnCategory_Dresses.Text = "Dresses";
             this.btnCategory_Dresses.UseVisualStyleBackColor = true;
-            this.btnCategory_Dresses.Click += new System.EventHandler(this.btnDresses_Click);
+           
             // 
-            // Form1
+            // MainPage
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.PaleVioletRed;
@@ -267,7 +268,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
+            this.Name = "MainPage";
             this.Text = "S";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel2.ResumeLayout(false);
