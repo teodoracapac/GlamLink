@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlamLinkFormNew", "GlamLinkFormNew\GlamLinkFormNew.csproj", "{275D27CC-9C4A-438D-B049-A93CAFEBD793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlamLink.Shared", "..\GlamLink.Shared\GlamLink.Shared\GlamLink.Shared.csproj", "{6E68FF4C-899B-FFEE-1BF7-37F16B8A9E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275D27CC-9C4A-438D-B049-A93CAFEBD793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275D27CC-9C4A-438D-B049-A93CAFEBD793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275D27CC-9C4A-438D-B049-A93CAFEBD793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275D27CC-9C4A-438D-B049-A93CAFEBD793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E68FF4C-899B-FFEE-1BF7-37F16B8A9E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E68FF4C-899B-FFEE-1BF7-37F16B8A9E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E68FF4C-899B-FFEE-1BF7-37F16B8A9E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E68FF4C-899B-FFEE-1BF7-37F16B8A9E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1538AC-D575-404A-A353-34FADB00A458}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\bin\Debug\net8.0\GlamLink.Shared.deps.json
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\bin\Debug\net8.0\GlamLink.Shared.dll
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\bin\Debug\net8.0\GlamLink.Shared.pdb
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\GlamLink.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\GlamLink.Shared.AssemblyInfoInputs.cache
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\GlamLink.Shared.AssemblyInfo.cs
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\GlamLink.Shared.csproj.CoreCompileInputs.cache
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\GlamLink.Shared.dll
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\refint\GlamLink.Shared.dll
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\GlamLink.Shared.pdb
+C:\a.Y3\II\GlamLink.Shared\GlamLink.Shared\obj\Debug\net8.0\ref\GlamLink.Shared.dll

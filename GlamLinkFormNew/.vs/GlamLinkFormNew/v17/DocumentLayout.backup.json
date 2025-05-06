@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\a.Y3\\II\\GlamLinkFormNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|c:\\a.y3\\ii\\glamlinkformnew\\glamlinkformnew\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|solutionrelative:glamlinkformnew\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|c:\\a.y3\\ii\\glamlinkformnew\\glamlinkformnew\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|solutionrelative:glamlinkformnew\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|c:\\a.y3\\ii\\glamlinkformnew\\glamlinkformnew\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|solutionrelative:glamlinkformnew\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|c:\\a.y3\\ii\\glamlinkformnew\\glamlinkformnew\\glamlinkformnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|solutionrelative:glamlinkformnew\\glamlinkformnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|c:\\a.y3\\ii\\glamlinkformnew\\glamlinkformnew\\index1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|solutionrelative:glamlinkformnew\\index1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|c:\\a.y3\\ii\\glamlinkformnew\\glamlinkformnew\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275D27CC-9C4A-438D-B049-A93CAFEBD793}|GlamLinkFormNew\\GlamLinkFormNew.csproj|solutionrelative:glamlinkformnew\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 32,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\MainPage.cs",
+              "RelativeDocumentMoniker": "GlamLinkFormNew\\MainPage.cs",
+              "ToolTip": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\MainPage.cs [Design]*",
+              "RelativeToolTip": "GlamLinkFormNew\\MainPage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:52:36.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "GlamLinkFormNew\\MainPage.Designer.cs",
+              "ToolTip": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\MainPage.Designer.cs*",
+              "RelativeToolTip": "GlamLinkFormNew\\MainPage.Designer.cs*",
+              "ViewState": "AgIAAAIBAAAAAAAAAAASwBUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:50:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlamLinkFormNew",
+              "DocumentMoniker": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\GlamLinkFormNew.csproj",
+              "RelativeDocumentMoniker": "GlamLinkFormNew\\GlamLinkFormNew.csproj",
+              "ToolTip": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\GlamLinkFormNew.csproj",
+              "RelativeToolTip": "GlamLinkFormNew\\GlamLinkFormNew.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T14:49:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\MainPage.cs",
+              "RelativeDocumentMoniker": "GlamLinkFormNew\\MainPage.cs",
+              "ToolTip": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\MainPage.cs*",
+              "RelativeToolTip": "GlamLinkFormNew\\MainPage.cs*",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAnwC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:30:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index1.cs",
+              "DocumentMoniker": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\index1.cs",
+              "RelativeDocumentMoniker": "GlamLinkFormNew\\index1.cs",
+              "ToolTip": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\index1.cs",
+              "RelativeToolTip": "GlamLinkFormNew\\index1.cs",
+              "ViewState": "AgIAANADAAAAAAAAAADwv/ADAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:46:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\Form1.cs",
+              "RelativeDocumentMoniker": "GlamLinkFormNew\\Form1.cs",
+              "ToolTip": "C:\\a.Y3\\II\\GlamLinkFormNew\\GlamLinkFormNew\\Form1.cs [Design]",
+              "RelativeToolTip": "GlamLinkFormNew\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:26:29.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

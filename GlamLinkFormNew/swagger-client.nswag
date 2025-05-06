@@ -1,0 +1,35 @@
+{
+  "runtime": "NetCore31",
+  "defaultVariables": null,
+  "documentGenerator": {
+    "fromDocument": {
+      "url": "https://localhost:44337/swagger/v1/swagger.json",
+      "output": null
+    }
+  },
+  "codeGenerators": {
+    "openApiToCSharpClient": {
+      "className": "GlamLinkClient",
+      "namespace": "GlamLinkForm",
+      "output": "OpenAPIs/index1.cs",
+      "generateClientClasses": true,
+      "generateClientInterfaces": true,
+      "injectHttpClient": true,
+      "disposeHttpClient": false,
+      "useHttpRequestMessageCreationMethod": false,
+      "useBaseUrl": true,
+      "generateBaseUrlProperty": true,
+      "generateSyncMethods": false,
+      "excludedTypeNames": [],
+      "generateExceptionClasses": true,
+      "exceptionClass": "ApiException",
+      "wrapDtoExceptions": true,
+      "generateOptionalParameters": true,
+      "clientBaseClass": null,
+      "configurationClass": null,
+      "useRequestAndResponseSerializationSettings": false,
+      "useNullableReferenceTypes": true,
+      "disableCertificateVerification": true
+    }
+  }
+}
