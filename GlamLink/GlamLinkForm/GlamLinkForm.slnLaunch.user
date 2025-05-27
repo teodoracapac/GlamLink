@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GlamLinkForm.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\GlamLink\\GlamLink.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

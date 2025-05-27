@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlamLink", "GlamLink.csproj", "{012BF674-1240-487A-B690-A8D02275B457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlamLinkForm", "..\GlamLinkForm\GlamLinkForm.csproj", "{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012BF674-1240-487A-B690-A8D02275B457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012BF674-1240-487A-B690-A8D02275B457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012BF674-1240-487A-B690-A8D02275B457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012BF674-1240-487A-B690-A8D02275B457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6BFDCF1-779B-4A51-9E87-AD5C255EEF25}
+	EndGlobalSection
+EndGlobal

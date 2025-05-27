@@ -1,0 +1,2391 @@
+{
+  "Version": 1,
+  "Hash": "vzreEdNYPGNnVoitv5AvDeeX2T5caPBrHl/jb41bX6Q=",
+  "Source": "GlamLink",
+  "BasePath": "_content/GlamLink",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GlamLink\\wwwroot",
+      "Source": "GlamLink",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_191015_perls.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Accessories/20250526_191015_perls#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e0z4ad6ps1",
+      "Integrity": "PsjMKTSElXhW6dpQgXbseWh/EG6AJIASulegRUy+OM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Accessories\\20250526_191015_perls.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_214546_backpack.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Accessories/20250526_214546_backpack#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9zc9nndab6",
+      "Integrity": "9SwO2/RC/0lh+F/rQq4bST4CX5f2RtzwfIMfh+iXMfc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Accessories\\20250526_214546_backpack.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_215350_watch.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Accessories/20250526_215350_watch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jqe8bos9vc",
+      "Integrity": "Zbgrl0bqnbvuLjOBxsRB0oxqDrshabiXPb7J6Ns5yEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Accessories\\20250526_215350_watch.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250527_192206_blackbag.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Accessories/20250527_192206_blackbag#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ohab50vbw",
+      "Integrity": "CKnEztowjOfWryrNS6tL/jTbv3vDMP/2CjKA6cvs+m0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Accessories\\20250527_192206_blackbag.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_191918_baggy_jeans.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Bottoms/20250526_191918_baggy_jeans#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjeudsyjre",
+      "Integrity": "L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Bottoms\\20250526_191918_baggy_jeans.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_214721_red_skirt.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Bottoms/20250526_214721_red_skirt#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dzppq7ao3w",
+      "Integrity": "NzqJJqVfY6vQEnPwHRPN8ZaMyP8IEK1RfImp9rRJelY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Bottoms\\20250526_214721_red_skirt.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_215112_baggy_jeans.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Bottoms/20250526_215112_baggy_jeans#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjeudsyjre",
+      "Integrity": "L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Bottoms\\20250526_215112_baggy_jeans.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_191243_green_dress.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Dresses/20250526_191243_green_dress#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4am6eamv9",
+      "Integrity": "wLrxicHi+IsRJbw0tOH1NPXthd/n4jIJKE/UsDCF/a0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Dresses\\20250526_191243_green_dress.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_191625_floral_dress.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Dresses/20250526_191625_floral_dress#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "biqd8356l0",
+      "Integrity": "c4s8ZPKjEKAqCcYzmjyGK0IAFI+SMiuL7oxkjA3+uqI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Dresses\\20250526_191625_floral_dress.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_214637_20250515_230831_red_dress.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Dresses/20250526_214637_20250515_230831_red_dress#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t0rmfpt0np",
+      "Integrity": "s4pVdFKAfjPYYZqHcbIrpRikJXVsAEX0QSYQ58CmkwA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Dresses\\20250526_214637_20250515_230831_red_dress.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_215240_black_dress.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Dresses/20250526_215240_black_dress#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o0x08eu2re",
+      "Integrity": "KAemVH7xHCFhJL25Kv8i/hy17aWREeY0adZErsiyl10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Dresses\\20250526_215240_black_dress.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_195226_denim_jacket.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Jackets/20250526_195226_denim_jacket#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u25gfrnkv6",
+      "Integrity": "tqg5xb492jh9BSHb8NJogVl2+sEz1PdmfRV7/zrUTq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Jackets\\20250526_195226_denim_jacket.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_214849_red_trench.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Jackets/20250526_214849_red_trench#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "baxstoga6b",
+      "Integrity": "fUvz9VsyO22CP5D4S71b26HlG0y1SqC36UlMyxgynxg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Jackets\\20250526_214849_red_trench.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_215019_gray_suit.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Jackets/20250526_215019_gray_suit#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "51ck178kzz",
+      "Integrity": "F+n47nZDonzo0lDCXQLqK69iXNotlCoNjmmy4K8L4bc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Jackets\\20250526_215019_gray_suit.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_191659_white_boot.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Shoes/20250526_191659_white_boot#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w4lm559mhf",
+      "Integrity": "gH1z4ewQMshurUgqKE5oeO37sNJRXx+3OMCZTXQaOa4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Shoes\\20250526_191659_white_boot.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_191816_pink_converse.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Shoes/20250526_191816_pink_converse#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e701auz11d",
+      "Integrity": "tlYNG/nuOFTM8EQiiAh3RWt6V8pG0UifC2tJu4b6NYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Shoes\\20250526_191816_pink_converse.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_193444_red_sneakers.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Shoes/20250526_193444_red_sneakers#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q54qlywtwk",
+      "Integrity": "jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Shoes\\20250526_193444_red_sneakers.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_214935_red_sneakers.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Shoes/20250526_214935_red_sneakers#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q54qlywtwk",
+      "Integrity": "jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Shoes\\20250526_214935_red_sneakers.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_215044_black_heels.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Shoes/20250526_215044_black_heels#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sbwhszwtpl",
+      "Integrity": "6AX7V0qSpB9kUlpFiaXdjQOvYQ22SwFmWMxlO9gFSWA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Shoes\\20250526_215044_black_heels.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_191953_red_top.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Tops/20250526_191953_red_top#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "25wdl0sepc",
+      "Integrity": "9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Tops\\20250526_191953_red_top.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_192013_long_blouse.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Tops/20250526_192013_long_blouse#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gr4hd5gsou",
+      "Integrity": "XJNOsx2RM8856na1WyyFWNRACwrFoQhM4dCy8nhzxTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Tops\\20250526_192013_long_blouse.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_214757_red_top.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Tops/20250526_214757_red_top#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "25wdl0sepc",
+      "Integrity": "9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Tops\\20250526_214757_red_top.jpg"
+    },
+    {
+      "Identity": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_215134_blue_polo.jpg",
+      "SourceId": "GlamLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\",
+      "BasePath": "_content/GlamLink",
+      "RelativePath": "ClosetItems/Tops/20250526_215134_blue_polo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gkx3i4icuc",
+      "Integrity": "UDFN/2RMSqnI86eRJHwVvtD1jdECIp0DpUCAXa+evMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ClosetItems\\Tops\\20250526_215134_blue_polo.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ClosetItems/Accessories/20250526_191015_perls.e0z4ad6ps1.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_191015_perls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PsjMKTSElXhW6dpQgXbseWh/EG6AJIASulegRUy+OM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:10:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0z4ad6ps1"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Accessories/20250526_191015_perls.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PsjMKTSElXhW6dpQgXbseWh/EG6AJIASulegRUy+OM0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250526_191015_perls.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_191015_perls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PsjMKTSElXhW6dpQgXbseWh/EG6AJIASulegRUy+OM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:10:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PsjMKTSElXhW6dpQgXbseWh/EG6AJIASulegRUy+OM0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250526_214546_backpack.9zc9nndab6.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_214546_backpack.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9SwO2/RC/0lh+F/rQq4bST4CX5f2RtzwfIMfh+iXMfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9zc9nndab6"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Accessories/20250526_214546_backpack.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SwO2/RC/0lh+F/rQq4bST4CX5f2RtzwfIMfh+iXMfc="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250526_214546_backpack.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_214546_backpack.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9SwO2/RC/0lh+F/rQq4bST4CX5f2RtzwfIMfh+iXMfc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SwO2/RC/0lh+F/rQq4bST4CX5f2RtzwfIMfh+iXMfc="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250526_215350_watch.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_215350_watch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zbgrl0bqnbvuLjOBxsRB0oxqDrshabiXPb7J6Ns5yEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:53:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zbgrl0bqnbvuLjOBxsRB0oxqDrshabiXPb7J6Ns5yEU="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250526_215350_watch.jqe8bos9vc.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250526_215350_watch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zbgrl0bqnbvuLjOBxsRB0oxqDrshabiXPb7J6Ns5yEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:53:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jqe8bos9vc"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Accessories/20250526_215350_watch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zbgrl0bqnbvuLjOBxsRB0oxqDrshabiXPb7J6Ns5yEU="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250527_192206_blackbag.8ohab50vbw.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250527_192206_blackbag.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKnEztowjOfWryrNS6tL/jTbv3vDMP/2CjKA6cvs+m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 16:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ohab50vbw"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Accessories/20250527_192206_blackbag.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CKnEztowjOfWryrNS6tL/jTbv3vDMP/2CjKA6cvs+m0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Accessories/20250527_192206_blackbag.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Accessories\\20250527_192206_blackbag.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKnEztowjOfWryrNS6tL/jTbv3vDMP/2CjKA6cvs+m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 16:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CKnEztowjOfWryrNS6tL/jTbv3vDMP/2CjKA6cvs+m0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Bottoms/20250526_191918_baggy_jeans.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_191918_baggy_jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:19:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Bottoms/20250526_191918_baggy_jeans.zjeudsyjre.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_191918_baggy_jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:19:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjeudsyjre"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Bottoms/20250526_191918_baggy_jeans.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Bottoms/20250526_214721_red_skirt.dzppq7ao3w.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_214721_red_skirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzqJJqVfY6vQEnPwHRPN8ZaMyP8IEK1RfImp9rRJelY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dzppq7ao3w"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Bottoms/20250526_214721_red_skirt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzqJJqVfY6vQEnPwHRPN8ZaMyP8IEK1RfImp9rRJelY="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Bottoms/20250526_214721_red_skirt.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_214721_red_skirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzqJJqVfY6vQEnPwHRPN8ZaMyP8IEK1RfImp9rRJelY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzqJJqVfY6vQEnPwHRPN8ZaMyP8IEK1RfImp9rRJelY="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Bottoms/20250526_215112_baggy_jeans.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_215112_baggy_jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:51:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Bottoms/20250526_215112_baggy_jeans.zjeudsyjre.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Bottoms\\20250526_215112_baggy_jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:51:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjeudsyjre"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Bottoms/20250526_215112_baggy_jeans.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L6IeXkcDeV5/4SZW81K+52hTzoc6aIlPnLpRah6j42g="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_191243_green_dress.g4am6eamv9.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_191243_green_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wLrxicHi+IsRJbw0tOH1NPXthd/n4jIJKE/UsDCF/a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4am6eamv9"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Dresses/20250526_191243_green_dress.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wLrxicHi+IsRJbw0tOH1NPXthd/n4jIJKE/UsDCF/a0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_191243_green_dress.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_191243_green_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wLrxicHi+IsRJbw0tOH1NPXthd/n4jIJKE/UsDCF/a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wLrxicHi+IsRJbw0tOH1NPXthd/n4jIJKE/UsDCF/a0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_191625_floral_dress.biqd8356l0.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_191625_floral_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c4s8ZPKjEKAqCcYzmjyGK0IAFI+SMiuL7oxkjA3+uqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:16:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "biqd8356l0"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Dresses/20250526_191625_floral_dress.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c4s8ZPKjEKAqCcYzmjyGK0IAFI+SMiuL7oxkjA3+uqI="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_191625_floral_dress.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_191625_floral_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c4s8ZPKjEKAqCcYzmjyGK0IAFI+SMiuL7oxkjA3+uqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:16:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c4s8ZPKjEKAqCcYzmjyGK0IAFI+SMiuL7oxkjA3+uqI="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_214637_20250515_230831_red_dress.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_214637_20250515_230831_red_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4pVdFKAfjPYYZqHcbIrpRikJXVsAEX0QSYQ58CmkwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4pVdFKAfjPYYZqHcbIrpRikJXVsAEX0QSYQ58CmkwA="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_214637_20250515_230831_red_dress.t0rmfpt0np.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_214637_20250515_230831_red_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4pVdFKAfjPYYZqHcbIrpRikJXVsAEX0QSYQ58CmkwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0rmfpt0np"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Dresses/20250526_214637_20250515_230831_red_dress.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4pVdFKAfjPYYZqHcbIrpRikJXVsAEX0QSYQ58CmkwA="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_215240_black_dress.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_215240_black_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KAemVH7xHCFhJL25Kv8i/hy17aWREeY0adZErsiyl10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KAemVH7xHCFhJL25Kv8i/hy17aWREeY0adZErsiyl10="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Dresses/20250526_215240_black_dress.o0x08eu2re.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Dresses\\20250526_215240_black_dress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KAemVH7xHCFhJL25Kv8i/hy17aWREeY0adZErsiyl10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0x08eu2re"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Dresses/20250526_215240_black_dress.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KAemVH7xHCFhJL25Kv8i/hy17aWREeY0adZErsiyl10="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Jackets/20250526_195226_denim_jacket.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_195226_denim_jacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tqg5xb492jh9BSHb8NJogVl2+sEz1PdmfRV7/zrUTq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqg5xb492jh9BSHb8NJogVl2+sEz1PdmfRV7/zrUTq0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Jackets/20250526_195226_denim_jacket.u25gfrnkv6.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_195226_denim_jacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tqg5xb492jh9BSHb8NJogVl2+sEz1PdmfRV7/zrUTq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:52:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u25gfrnkv6"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Jackets/20250526_195226_denim_jacket.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqg5xb492jh9BSHb8NJogVl2+sEz1PdmfRV7/zrUTq0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Jackets/20250526_214849_red_trench.baxstoga6b.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_214849_red_trench.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fUvz9VsyO22CP5D4S71b26HlG0y1SqC36UlMyxgynxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:48:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "baxstoga6b"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Jackets/20250526_214849_red_trench.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fUvz9VsyO22CP5D4S71b26HlG0y1SqC36UlMyxgynxg="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Jackets/20250526_214849_red_trench.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_214849_red_trench.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "667776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fUvz9VsyO22CP5D4S71b26HlG0y1SqC36UlMyxgynxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:48:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fUvz9VsyO22CP5D4S71b26HlG0y1SqC36UlMyxgynxg="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Jackets/20250526_215019_gray_suit.51ck178kzz.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_215019_gray_suit.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "489637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F+n47nZDonzo0lDCXQLqK69iXNotlCoNjmmy4K8L4bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51ck178kzz"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Jackets/20250526_215019_gray_suit.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F+n47nZDonzo0lDCXQLqK69iXNotlCoNjmmy4K8L4bc="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Jackets/20250526_215019_gray_suit.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Jackets\\20250526_215019_gray_suit.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "489637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F+n47nZDonzo0lDCXQLqK69iXNotlCoNjmmy4K8L4bc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F+n47nZDonzo0lDCXQLqK69iXNotlCoNjmmy4K8L4bc="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_191659_white_boot.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_191659_white_boot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gH1z4ewQMshurUgqKE5oeO37sNJRXx+3OMCZTXQaOa4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:16:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gH1z4ewQMshurUgqKE5oeO37sNJRXx+3OMCZTXQaOa4="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_191659_white_boot.w4lm559mhf.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_191659_white_boot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gH1z4ewQMshurUgqKE5oeO37sNJRXx+3OMCZTXQaOa4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:16:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w4lm559mhf"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Shoes/20250526_191659_white_boot.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gH1z4ewQMshurUgqKE5oeO37sNJRXx+3OMCZTXQaOa4="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_191816_pink_converse.e701auz11d.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_191816_pink_converse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlYNG/nuOFTM8EQiiAh3RWt6V8pG0UifC2tJu4b6NYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:18:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e701auz11d"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Shoes/20250526_191816_pink_converse.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlYNG/nuOFTM8EQiiAh3RWt6V8pG0UifC2tJu4b6NYM="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_191816_pink_converse.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_191816_pink_converse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlYNG/nuOFTM8EQiiAh3RWt6V8pG0UifC2tJu4b6NYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:18:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlYNG/nuOFTM8EQiiAh3RWt6V8pG0UifC2tJu4b6NYM="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_193444_red_sneakers.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_193444_red_sneakers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:34:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_193444_red_sneakers.q54qlywtwk.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_193444_red_sneakers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:34:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q54qlywtwk"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Shoes/20250526_193444_red_sneakers.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_214935_red_sneakers.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_214935_red_sneakers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_214935_red_sneakers.q54qlywtwk.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_214935_red_sneakers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q54qlywtwk"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Shoes/20250526_214935_red_sneakers.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jtQFVzxtQdJm4FB86g5ZlAqw/Jc6kg/bB50DhCSj+I0="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_215044_black_heels.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_215044_black_heels.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6AX7V0qSpB9kUlpFiaXdjQOvYQ22SwFmWMxlO9gFSWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6AX7V0qSpB9kUlpFiaXdjQOvYQ22SwFmWMxlO9gFSWA="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Shoes/20250526_215044_black_heels.sbwhszwtpl.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Shoes\\20250526_215044_black_heels.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6AX7V0qSpB9kUlpFiaXdjQOvYQ22SwFmWMxlO9gFSWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sbwhszwtpl"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Shoes/20250526_215044_black_heels.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6AX7V0qSpB9kUlpFiaXdjQOvYQ22SwFmWMxlO9gFSWA="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_191953_red_top.25wdl0sepc.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_191953_red_top.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:19:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25wdl0sepc"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Tops/20250526_191953_red_top.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_191953_red_top.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_191953_red_top.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:19:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_192013_long_blouse.gr4hd5gsou.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_192013_long_blouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJNOsx2RM8856na1WyyFWNRACwrFoQhM4dCy8nhzxTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:20:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gr4hd5gsou"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Tops/20250526_192013_long_blouse.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJNOsx2RM8856na1WyyFWNRACwrFoQhM4dCy8nhzxTs="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_192013_long_blouse.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_192013_long_blouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJNOsx2RM8856na1WyyFWNRACwrFoQhM4dCy8nhzxTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 16:20:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJNOsx2RM8856na1WyyFWNRACwrFoQhM4dCy8nhzxTs="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_214757_red_top.25wdl0sepc.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_214757_red_top.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:47:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25wdl0sepc"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Tops/20250526_214757_red_top.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_214757_red_top.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_214757_red_top.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:47:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9liq4ZRBv2tzYV4qtYSNKvlf6IJnxx2VEcxwvgHSN7Q="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_215134_blue_polo.gkx3i4icuc.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_215134_blue_polo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDFN/2RMSqnI86eRJHwVvtD1jdECIp0DpUCAXa+evMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gkx3i4icuc"
+        },
+        {
+          "Name": "label",
+          "Value": "ClosetItems/Tops/20250526_215134_blue_polo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDFN/2RMSqnI86eRJHwVvtD1jdECIp0DpUCAXa+evMg="
+        }
+      ]
+    },
+    {
+      "Route": "ClosetItems/Tops/20250526_215134_blue_polo.jpg",
+      "AssetFile": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\wwwroot\\ClosetItems\\Tops\\20250526_215134_blue_polo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDFN/2RMSqnI86eRJHwVvtD1jdECIp0DpUCAXa+evMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 18:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDFN/2RMSqnI86eRJHwVvtD1jdECIp0DpUCAXa+evMg="
+        }
+      ]
+    }
+  ]
+}

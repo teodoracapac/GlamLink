@@ -1,0 +1,423 @@
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\Project\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Private\Desktop\Project\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\Project\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddEventForm.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+D:\Private\Desktop\Proiect ultimul racnet\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.EventsDTO.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.EventsDTO.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UserComplaintsForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UserComplaintsForm.resources
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+C:\a.Y3\II\oh brother\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddEventForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddEventForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UserComplaintsForm.resources
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+C:\a.Y3\II\proiect frumos\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\proiect frumoss\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddEventForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UserComplaintsForm.resources
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\proiect frumoss\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddEventForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UserComplaintsForm.resources
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Private\Desktop\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe.config
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.exe
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\GlamLinkForm.pdb
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Buffers.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Memory.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Json.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.dll
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\Newtonsoft.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Buffers.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.IO.Pipelines.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Memory.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Net.Http.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Text.Json.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\bin\Debug\System.ValueTuple.xml
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.AssemblyReference.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddClothesForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddEventForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AddOutfits.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.AdminForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\WindowsFormsApp1.MainPage.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkClient.LoginForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.Properties.Resources.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateEventForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UpdateOutfitForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.UserComplaintsForm.resources
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.GenerateResource.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.csproj.CoreCompileInputs.cache
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLink.E371AB50.Up2Date
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.exe
+D:\Teme facultate\Year 3\Semester 2\Industrial Informatics\PROIECT FINAL\project-base\GlamLinkForm\obj\Debug\GlamLinkForm.pdb

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}|..\\GlamLinkForm\\GlamLinkForm.csproj|d:\\teme facultate\\year 3\\semester 2\\industrial informatics\\proiect final\\project-base\\glamlinkform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}|..\\GlamLinkForm\\GlamLinkForm.csproj|d:\\teme facultate\\year 3\\semester 2\\industrial informatics\\proiect final\\project-base\\glamlinkform\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}|..\\GlamLinkForm\\GlamLinkForm.csproj|d:\\teme facultate\\year 3\\semester 2\\industrial informatics\\proiect final\\project-base\\glamlinkform\\addoutfits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}|..\\GlamLinkForm\\GlamLinkForm.csproj|d:\\teme facultate\\year 3\\semester 2\\industrial informatics\\proiect final\\project-base\\glamlinkform\\updateoutfitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}|..\\GlamLinkForm\\GlamLinkForm.csproj|d:\\teme facultate\\year 3\\semester 2\\industrial informatics\\proiect final\\project-base\\glamlinkform\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084163C0-A62E-4A50-B18E-EDF0D2AA3EC3}|..\\GlamLinkForm\\GlamLinkForm.csproj|d:\\teme facultate\\year 3\\semester 2\\industrial informatics\\proiect final\\project-base\\glamlinkform\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\GlamLinkForm\\AdminForm.cs",
+              "ToolTip": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\AdminForm.cs*",
+              "RelativeToolTip": "..\\GlamLinkForm\\AdminForm.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:46:26.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\GlamLinkForm\\AdminForm.cs",
+              "ToolTip": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\AdminForm.cs [Design]*",
+              "RelativeToolTip": "..\\GlamLinkForm\\AdminForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:44:34.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateOutfitForm.cs [Design]",
+              "DocumentMoniker": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\UpdateOutfitForm.cs",
+              "RelativeDocumentMoniker": "..\\GlamLinkForm\\UpdateOutfitForm.cs",
+              "ToolTip": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\UpdateOutfitForm.cs [Design]",
+              "RelativeToolTip": "..\\GlamLinkForm\\UpdateOutfitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:29:25.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOutfits.cs [Design]",
+              "DocumentMoniker": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\AddOutfits.cs",
+              "RelativeDocumentMoniker": "..\\GlamLinkForm\\AddOutfits.cs",
+              "ToolTip": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\AddOutfits.cs [Design]",
+              "RelativeToolTip": "..\\GlamLinkForm\\AddOutfits.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:37:18.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "..\\GlamLinkForm\\MainPage.Designer.cs",
+              "ToolTip": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\MainPage.Designer.cs",
+              "RelativeToolTip": "..\\GlamLinkForm\\MainPage.Designer.cs",
+              "ViewState": "AgIAAPUCAAAAAAAAAAAswAgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:59:15.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\MainPage.cs",
+              "RelativeDocumentMoniker": "..\\GlamLinkForm\\MainPage.cs",
+              "ToolTip": "D:\\Teme facultate\\Year 3\\Semester 2\\Industrial Informatics\\PROIECT FINAL\\project-base\\GlamLinkForm\\MainPage.cs",
+              "RelativeToolTip": "..\\GlamLinkForm\\MainPage.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:41:56.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
